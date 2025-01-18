@@ -1,2 +1,0 @@
-SE101101, Ann, 0987654321, A@gmail.com, 2, 0
-SE112345, Had, 9087654321, T@gmail.com, 2, 0
